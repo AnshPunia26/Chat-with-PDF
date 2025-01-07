@@ -5,10 +5,10 @@ Ask Questions: Users can ask questions about the PDF content.
 AI-Powered Responses: Uses OpenAI GPT-3.5 to provide intelligent, context-aware answers.
 Chunk-Based Processing: Handles large documents by splitting them into manageable chunks for efficient embedding and querying.
 Interactive UI: Built with Streamlit for an easy-to-use, interactive interface.
-Dependencies:
-  streamlit
-  PyPDF2
-  pdfplumber
-  sentence-transformers
-  scikit-learn
-  openai
+Dependencies: 
+  streamlit, 
+  PyPDF2, 
+  pdfplumber, 
+  sentence-transformers, 
+  scikit-learn, 
+  openai.
